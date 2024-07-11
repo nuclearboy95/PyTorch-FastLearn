@@ -28,4 +28,18 @@
 
 ---
 
-### Milestone 4: TBD
+### Milestone 4: [7/12]: 기본적인 모델들 PyTorch 구현
+- 아래의 코드를 ipynb에 따라 치고 `milestone4/` 폴더에 저장
+1. [Adversarial Example](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
+2. [GAN](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+- 아래의 내용을 수행하는 코드를 ipynb로 작성하고 `milestone4/` 폴더에 저장
+1. MNIST와 CIFAR10 데이터에 대한 1개의 image classifier 학습 및 테스트
+
+---
+
+### Milestone 5: [7/16]: 기본적인 모델들 PyTorch 구현
+- 아래의 내용을 수행하는 코드를 ipynb로 작성하고 `milestone5/` 폴더에 저장
+1. CIFAR10 데이터에 대한 image classifier 학습
+2. CIFAR10 데이터로 GAN 학습
+3. 1.에서 학습한 classifier를 2.에서 학습한 generator로 생성한 데이터에 성능 측정
+4. 2.에서 generator로 생성한 데이터로 1. 추가 학습 후 기존 CIFAR10 데이터에 대해 성능 측정
