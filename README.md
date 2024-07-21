@@ -43,7 +43,11 @@
 2. CIFAR10 데이터로 GAN 학습
 3. 1.에서 학습한 classifier를 2.에서 학습한 generator로 생성한 데이터에 성능 측정
 4. 2.에서 generator로 생성한 데이터로 1. 추가 학습 후 기존 CIFAR10 데이터에 대해 성능 측정
-5. 
+
 ---
 
 ### Milestone 6: [7/19]: 이전 코드 수정
+
+---
+
+### Milestone 7: [7/23]: GAN 생성 image 퀄리티 향상 및 이를 사용하는 classifier 성능 향상
