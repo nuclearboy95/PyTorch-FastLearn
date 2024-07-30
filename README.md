@@ -51,3 +51,7 @@
 ---
 
 ### Milestone 7: [7/23]: GAN 생성 image 퀄리티 향상 및 이를 사용하는 classifier 성능 향상
+
+---
+
+### Milestone 8: [8/2]: GAN 생성 image 다양성 향상 및 이를 사용하는 classifier 성능 향상
